@@ -102,6 +102,10 @@ IoT 개발자과정 WPF 학습리포지토리
             - 메서드와 이름이 동일한 Can... 프로퍼티 지정, 버튼 활성/비활성화
             - 모든 속성에 NotifyOfPropertyChange() 메서드 존재!!(값 변경 알림) 
 
-            
+
 
     ![실행화면](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-wpf-2024/main/images/wpf002.png)
+
+## 5일차
+- Caliburn.Micro + MahApps.Metro
+    - Metro(Modern UI) 디자인 접목
