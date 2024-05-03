@@ -24,7 +24,7 @@
                                                                         (@EmpName
                                                                         ,@Salary
                                                                         ,@DeptName
-                                                                        ,@Addr";
+                                                                        ,@Addr)";
 
         public static readonly string UPDATE_QUERY = @"UPDATE [dbo].[Employees]
                                                                 SET [EmpName] = @EmpName
