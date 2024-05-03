@@ -59,7 +59,7 @@ IoT 개발자과정 WPF 학습리포지토리
         - Model DB 작업 독립적으로 구현
 
     - MVVM 구현 도와주는 프레임워크
-        0. ~~MvvmLight.Toolkit~~ - 3rd Party 개발. 2009년부터 시작 2014년도 이후 더이상 개발이나 지원이 없음
+        - ~~MvvmLight.Toolkit~~ - 3rd Party 개발. 2009년부터 시작 2014년도 이후 더이상 개발이나 지원이 없음
         1. **Caliburn.Micro** - MVVM이 아주 간단, 강력. // 디버깅이 조금 어려움
         2. AvaloniaUI - 3rd Party 개발. 크로스플랫폼. 디자인은 최고
         3. Prism - Microsoft 개발. 무지막지하게 어려움. 대규모 프로젝트 활용
