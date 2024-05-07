@@ -116,5 +116,5 @@ IoT 개발자과정 WPF 학습리포지토리
 
 - Movie API 연동 앱
     - 좋아하는 영화 즐겨찾기 앱
-    - themoviedb.org.OpenAPI 활용
-    - Youtube API 활용
+    - [TMDB](https://www.themoviedb.org/) OpenAPI 활용
+    - [Youtube API](https://console.cloud.google.com/) 활용
