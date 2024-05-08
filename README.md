@@ -136,6 +136,8 @@ IoT 개발자과정 WPF 학습리포지토리
 
 ## 6일차
 - MovieFinder 2024 계속
+
+
     ![영화검색](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-wpf-2024/main/images/wpf006.png)
 
     ![즐겨찾기](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-wpf-2024/main/images/wpf005.png)
