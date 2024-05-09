@@ -163,6 +163,10 @@ https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/c07f5adf-d7a2
     - Newtonsoft.Json
     - 개인프로젝트 참조소스
 
+
+https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/ff8435f9-e6c3-4b0e-b76d-e194cdfb3035
+
+
 ## 8일차
 - WPF 개인프로젝트 포트폴리오 작업
 
