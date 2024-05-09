@@ -115,12 +115,13 @@ IoT 개발자과정 WPF 학습리포지토리
     ![저장화면](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-wpf-2024/main/images/wpf004.png)
 
 - Movie API 연동 앱, MovieFinder 2024
+    - 좋아하는 영화 즐겨찾기 앱
     - DB(SQLServer) 연동
-    - MahApps.Metro UI
+    - MahApps.Metro UI & IconPack
     - CefSharp WebBrowser 패키지
     - Google.Apis 패키지
+    - Newtonsoft.Json 
     - MVVM은 사용안함
-    - 좋아하는 영화 즐겨찾기 앱
     - OpenAPI 2가지 사용
     - [TMDB](https://www.themoviedb.org/) OpenAPI 활용
         - 회원가입 후 API 신청
@@ -157,8 +158,10 @@ https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/c07f5adf-d7a2
 
 
 - 데이터포털 API 연동앱 예제
-    - 5월 13일 개인프로젝트 참조소스
-
+    - CefSharp 사용시 플랫폼 대상 AnyCPU에서 x64로 변경필수!
+    - MahApps.Metro UI, IconPacks
+    - Newtonsoft.Json
+    - 개인프로젝트 참조소스
 
 ## 8일차
 - WPF 개인프로젝트 포트폴리오 작업
