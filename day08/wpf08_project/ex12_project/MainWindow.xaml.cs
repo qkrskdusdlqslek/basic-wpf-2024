@@ -167,6 +167,12 @@ namespace ex12_project
         private void GrdResult_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
             var curItem = GrdResult.SelectedItem as FineDustData; 
+
+            var mapWindow = new MapWindow(curItem.Coordy, curItem.Coordx);
+            mapWindow.Owner = this; 
+            mapWindow.WindowStartupLocation = WindowStartupLocation.CenterOwner;
+            mapWindow.ShowDialog();
+            
         }
 
         private void CboReqLocal_SelectionChanged(object sender, SelectionChangedEventArgs e)

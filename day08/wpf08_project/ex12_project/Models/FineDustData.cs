@@ -17,7 +17,10 @@ namespace ex12_project.Models
         public double CO2 { get; set; } 
         public double PM10 { get; set; } // PM 10mm 미세먼지 측정값
         public double PM25 { get; set; } // PM 2.5mm 초미세먼지 측정값
-        public double PM1 { get; set; } 
+        public double PM1 { get; set; }
+        public double Coordx { get; set; } // 경도
+        public double Coordy { get; set; } // 위도
+
         public DateTime Collection_Date { get; set; } 
         
 
