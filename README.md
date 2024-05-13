@@ -173,4 +173,6 @@ https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/ff8435f9-e6c3
         - 조회 기능 구현
         - 저장, 시간대, 지역 선택 기능 미구현
 
+https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/954e3299-726a-459f-84f3-748914a48781
+
 
