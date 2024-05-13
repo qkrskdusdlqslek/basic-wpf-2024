@@ -41,6 +41,13 @@
                           mah:TextBoxHelper.ClearTextButton="True"
                           SelectionChanged="CboReqTime_SelectionChanged" />
 
+                <ComboBox x:Name="CboReqLocal" Width="150" Margin="5,10,10,10"
+                          Style="{StaticResource MahApps.Styles.ComboBox}"
+                          mah:TextBoxHelper.Watermark="지역 선택"
+                          mah:TextBoxHelper.UseFloatingWatermark="True"
+                          mah:TextBoxHelper.ClearTextButton="True"
+                          SelectionChanged="CboReqLocal_SelectionChanged" />
+
             </StackPanel>
         </Grid>
 

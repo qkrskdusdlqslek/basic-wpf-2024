@@ -169,5 +169,8 @@ https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/ff8435f9-e6c3
 
 ## 8일차
 - WPF 개인프로젝트 포트폴리오 작업
+    - 광주광역시 미세먼지 측정 앱
+        - 조회 기능 구현
+        - 저장, 시간대, 지역 선택 기능 미구현
 
 

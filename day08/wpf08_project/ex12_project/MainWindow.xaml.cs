@@ -169,5 +169,9 @@ namespace ex12_project
             var curItem = GrdResult.SelectedItem as FineDustData; 
         }
 
+        private void CboReqLocal_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
