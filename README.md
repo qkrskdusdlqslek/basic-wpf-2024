@@ -176,3 +176,5 @@ https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/ff8435f9-e6c3
 https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/954e3299-726a-459f-84f3-748914a48781
 
 
+https://github.com/qkrskdusdlqslek/basic-wpf-2024/assets/158007421/f5762675-f5b0-4ceb-8a7e-b71a0e5fc513
+
