@@ -87,6 +87,7 @@ namespace ex11_Ginhae_FineDust
             if (status == 200)
             {
                 var data = jsonResult["data"];
+
                 var jsonArray = data as JArray; // json자체에서 []안에 들어간 배열데이터만 JArray 변환 가능
 
                 var dustSensors = new List<DustSensor>();
